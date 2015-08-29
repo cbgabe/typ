@@ -12,7 +12,8 @@
 body {
   font-family: sans-serif;
   font-size: 1em;
-  line-height: 1.5; }
+  line-height: 1.5;
+  background-image: url("http://basehold.it/i/24"); }
 
 h1, h2, h3, h4, h5, h6,
 .u-h1, .u-h2, .u-h3, .u-h4, .u-h5, .u-h6 {
